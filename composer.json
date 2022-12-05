@@ -14,7 +14,7 @@
         "dompdf/dompdf": "^2.0",
         "friendsofcake/cakepdf": "^4.1",
         "maiconpinto/cakephp-adminlte-theme": "^2.0",
-        "mobiledetect/mobiledetectlib": "^2.8",
+        "mobiledetect/mobiledetectlib": "^3.74",
         "tecnickcom/tcpdf": "^6.5"
     },
     "require-dev": {
