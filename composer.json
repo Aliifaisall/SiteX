@@ -11,7 +11,7 @@
         "cakephp/cakephp": "4.4.*",
         "cakephp/migrations": "^3.2",
         "cakephp/plugin-installer": "^1.3",
-        "dompdf/dompdf": "^2.0",
+        "dompdf/dompdf": "^3.0",
         "friendsofcake/cakepdf": "^4.1",
         "maiconpinto/cakephp-adminlte-theme": "^2.0",
         "mobiledetect/mobiledetectlib": "^2.8",
